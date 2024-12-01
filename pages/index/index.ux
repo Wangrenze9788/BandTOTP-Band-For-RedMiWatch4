@@ -62,7 +62,7 @@
   export default {
       private: {
           ab: false,
-          list: [new key("webGgsite","Ggwebsite",'account')],
+          list: [/*new key("webGgsite","Ggwebsite",'account')*/],
           more_show: false,
           main_show: true,
           more: null,
